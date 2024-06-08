@@ -1,0 +1,5 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
+      
+    <path android:fillColor="@color/BiruMuda" android:pathData="m19.828,3.414 l-2.242,-2.242a3.975,3.975 0,0 0,-2.829 -1.172h-8.757a3,3 0,0 0,-3 3v21h18v-17.758a4.022,4.022 0,0 0,-1.172 -2.828zM18.414,4.828a1.923,1.923 0,0 1,0.141 0.172h-2.555v-2.555a1.923,1.923 0,0 1,0.172 0.141zM5,22v-19a1,1 0,0 1,1 -1h8v5h5v15zM7,16h10v-6h-10zM9,12h6v2h-6zM7,18h10v2h-10z"/>
+    
+</vector>
